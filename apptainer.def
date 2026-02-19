@@ -1,11 +1,11 @@
 Bootstrap: docker
-From: leereid/qsmxt-plus
+From: ericcito1/qsmxt-plus:8.2.2
 
 %labels
-maintainer "Lee Reid <lee.reid1@uqconnect.edu.au>"
-version 1.0
-description "QSM XT, with an additional skull stripping step and real/imaginary dicom conversion"
+maintainer "UCSF Morrison Lab: Eric.Cito@ucsf.edu"
+version 2.0
+description "QSMxT, with an additional skull stripping step and real/imaginary dicom conversion"
 
 %help
-QSM XT, with an additional skull stripping step and real/imaginary dicom conversion
+QSMxT, with an additional skull stripping step and real/imaginary dicom conversion
 Run this to see usage help
