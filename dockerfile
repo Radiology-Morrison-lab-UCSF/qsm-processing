@@ -1,7 +1,7 @@
-FROM vnmd/qsmxt_8.0.7:20250529
-LABEL maintainer="Lee Reid <lee.reid1@uqconnect.edu.au>"
-LABEL version=1.0
-LABEL description="QSM QT, with an additional skull stripping step and real/imaginary dicom conversion"
+FROM vnmd/qsmxt_8.2.2:20260105
+LABEL maintainer="UCSF Morrison Lab: Eric.Cito@ucsf.edu"
+LABEL version=2.0
+LABEL description="QSMxT version 8.2.2, with an additional skull stripping step and real/imaginary dicom conversion"
 
 
 RUN ls /dev
