@@ -3,5 +3,5 @@ simpleitk==2.1.1
 matplotlib==3.7.5
 nibabel==5.2.1
 numpy==1.24.3
-pydicom==2.4.4
+pydicom==2.4.5
 SimpleITK==2.1.1
